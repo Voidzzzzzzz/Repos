@@ -1,0 +1,6 @@
+#include <iostream>
+
+itn main(void) 
+{
+  std::cout << " Very cool";
+}
